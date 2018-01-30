@@ -17,6 +17,8 @@ Last changes in the working version
 
 
 ##How To Contribute
+Please for this repository
+
 
 ##Copyright
 
