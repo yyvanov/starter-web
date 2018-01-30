@@ -8,9 +8,13 @@ Git and Guthub together
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above the purpose is to make simple text 
+
 
 ##Deployment
+
+Last changes in the working version
+
 
 ##How To Contribute
 
