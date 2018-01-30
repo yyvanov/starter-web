@@ -7,8 +7,9 @@
     Jason Taylor jason@git.training
 
 # THANKS
+    Thank you all for the money
 
-    <name>
+
 
 # TECHNOLOGY COLOPHON
 
