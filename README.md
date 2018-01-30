@@ -7,6 +7,7 @@ Git and Guthub together.
 
 Adding a line for rebasing example 
  
+And adding another change after rebase...
 
 
 ## Purpose
