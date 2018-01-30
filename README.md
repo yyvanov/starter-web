@@ -3,7 +3,10 @@
 This repository is for showing how Git and GitHub work
 
 This is a simple websuite project for showing how to use 
-Git and Guthub together 
+Git and Guthub together.
+
+Adding a line for rebasing example 
+ 
 
 
 ## Purpose
