@@ -16,3 +16,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+    added more values
+
