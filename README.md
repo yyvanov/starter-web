@@ -26,4 +26,7 @@ Please for this repository
 
 ##Copyright
 
+All rights reserved
+
+
 
